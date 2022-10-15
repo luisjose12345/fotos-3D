@@ -64,7 +64,9 @@
     position: relative;
     top: 100px;
     left: 80px;
-
+ width: 510px;
+    height: 320px;
+   
     
 
 }
@@ -73,13 +75,17 @@
     position: relative;
     bottom: 110px;
     left: 700px;
-    
+     width: 510px;
+    height: 320px;
+   
 }
 
 .foto3 {
     position: relative;
     top: 110px;
     right: 700px;
+    width: 510px;
+    height: 320px;
    
 }
 
@@ -87,7 +93,9 @@
     position: relative;
     bottom: 20px;
     left: 700px;
-
+ width: 510px;
+    height: 320px;
+   
 }
 
 .axb {
